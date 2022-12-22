@@ -1,6 +1,6 @@
 ## Malicious Doc | LetsDefend
 
-<img src="https://app.letsdefend.io/static/img/mal1_X5SDXVA.jpg" width="250px" align="center">
+<img src="https://app.letsdefend.io/_next/image?url=https%3A%2F%2Fapi.letsdefend.io%2Fstatic%2Fimg%2Fmal1_X5SDXVA.jpg&w=640&q=75" width="250px" align="center">
 
 This is the link for the room [Malicious Doc](https://app.letsdefend.io/challenge/Malicious-VBA/)
 
