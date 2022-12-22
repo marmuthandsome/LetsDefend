@@ -1,6 +1,6 @@
 ## Malicious VBA | LETSDEFEND
 
-<img src="https://app.letsdefend.io/static/img/vbSource_3v68cm0.jpg" width="300px" align="center">
+<img src="https://app.letsdefend.io/_next/image?url=https%3A%2F%2Fapi.letsdefend.io%2Fstatic%2Fimg%2FvbSource_3v68cm0.jpg&w=640&q=75" width="300px" align="center">
 
 This is the link for the room [Malicious VBA](https://app.letsdefend.io/challenge/Malicious-VBA/)
 
