@@ -34,7 +34,7 @@ Tools:
 
 **What is the MAC address of the Apple system it finds?**
 ```
-Ethernet II, Src: Apple_92:6e:dc (00:16:cb:92:6e:dc), Dst: QuantaCo_82:1f:4a (00:23:8b:82:1f:4a)
+Ethernet II, Src: Apple_92:6e:dc (***), Dst: QuantaCo_82:1f:4a (00:23:8b:82:1f:4a)
 ```
 
 ### Question 4
